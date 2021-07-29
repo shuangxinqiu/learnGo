@@ -167,5 +167,5 @@ type Cookie struct {
 */
 
 func TestCookie(t *testing.T) {
-	fmt.Println("Qwe")
+	fmt.Println("Qwe2")
 }
