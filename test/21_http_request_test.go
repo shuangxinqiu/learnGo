@@ -165,3 +165,7 @@ type Cookie struct {
 	Unparsed []string //Raw text of unparsed attribute-value pairs
 }
 */
+
+func TestCookie(t *testing.T) {
+	fmt.Println("Qwe")
+}
